@@ -1,5 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="300"/></p>
-<h1 align="center">Hello, my name is Daniel <br>Welcome to my github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px width="10px"></h1>
+<h1 align="center">Hello, my name is Daniel <br>Welcome to my github profile</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-charlak-717140226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -15,8 +15,6 @@ I am a Computer Science student from Poland.
 - 🔭 I work on my own projects to learn and show my skills.
 - ⚡ In my free time, I like coding and reading books. 
 - :boxing_glove: I used to train kick-boxing, but now my hobby is powerlifting :weight_lifting_man:
-
-<p align="center"><img src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" width="300"/></p>
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
