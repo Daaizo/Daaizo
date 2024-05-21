@@ -19,15 +19,33 @@ I'm a Computer Science enthusiast who finds joy in coding, constantly seeking op
 - 🚀 Strengths and weaknesses:
   - I accept my perfectionist nature, considering it both my greatest strength and sometimes my greatest challenge. Although I may seem a bit reserved and shy at first, my commitment manifests itself in everything I do. I always try to give my best.
 ---
-### 🛠 &nbsp;Languages and Tools :
-
+### Technologies
+- #### Languages
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+</p>
+
+- #### Frameworks and Libraries
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vertx/vertx-line.svg" title="Vertx" alt="Vertx" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+</p>
+
+- #### Tools
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -39,5 +57,7 @@ I'm a Computer Science enthusiast who finds joy in coding, constantly seeking op
 ---
 
 ### ✍️ Recent projecs: 
-- Bokke ( java, javaFx and sql) https://github.com/Daaizo/Booke-javaGUI-DestkopShoppingApp
-- Todo ( html, css and javascript) https://github.com/Daaizo/TODO-website
+- Canteen Managment System Backend https://github.com/Daaizo/canteen_managment_system_backend
+- Canteen Managment System Frontend https://github.com/Daaizo/canteen-management-system-front
+- Bokke https://github.com/Daaizo/Booke-javaGUI-DestkopShoppingApp
+
