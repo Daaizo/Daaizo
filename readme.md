@@ -1,4 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="300"/></p>
 <h1 align="center">Hello, my name is Daniel <br>Welcome to my GitHub profile</h1>
 
 <p align="center">
@@ -47,13 +46,6 @@ I'm a Computer Science enthusiast who finds joy in coding, constantly seeking op
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daaizo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 ---
 
 ### ✍️ Recent projecs: 
